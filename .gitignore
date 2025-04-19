@@ -1,0 +1,6 @@
+# Obsidian specific - CRITICAL
+.obsidian/
+
+# System files (optional but recommended)
+.DS_Store
+Thumbs.db
